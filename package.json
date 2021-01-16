@@ -1,0 +1,12 @@
+{
+  "name": "resources",
+  "version": "1.0.0",
+  "description": "Cat Workshop",
+  "main": "index.js",
+  "author": "Nikola Ilchovski",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.20"
+  }
+}
